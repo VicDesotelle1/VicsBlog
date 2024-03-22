@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>decision &#8211; VicDesotelle.com</title>
+	<atom:link href="/tag/decision/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Discovery Colabs, LLC - &#34;Be The Change&#34;</description>
+	<lastBuildDate>Fri, 30 Sep 2016 02:01:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2016/09/cropped-cropped-crossing-bridges-32x32.jpg</url>
+	<title>decision &#8211; VicDesotelle.com</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">117344633</site>	<item>
+		<title>The &#039;WE&#039; Part Hasn&#039;t Worked Because &#039;YOU&#039; Are Making &#039;R&#039;ational Decisions</title>
+		<link>/2009/02/13/making-rational-decisions/</link>
+					<comments>/2009/02/13/making-rational-decisions/#respond</comments>
+		
+		<dc:creator><![CDATA[VicDesotelle]]></dc:creator>
+		<pubDate>Sat, 14 Feb 2009 00:16:32 +0000</pubDate>
+				<category><![CDATA[* Collaborative Design]]></category>
+		<category><![CDATA[* Leadership Ecology]]></category>
+		<category><![CDATA[decide]]></category>
+		<category><![CDATA[decision]]></category>
+		<category><![CDATA[emotional]]></category>
+		<category><![CDATA[irrational]]></category>
+		<category><![CDATA[making]]></category>
+		<category><![CDATA[rational]]></category>
+		<guid isPermaLink="false">http://discoveryfuel.com/?p=848</guid>
+
+					<description><![CDATA[I watched &#8216;The Colbert Report&#8217; recently (see below video). He had this guy on named Jonah Lehrer who wrote the book &#8220;How We Decide&#8221;. Ohhhhh, we are so fooled by our own rational mind. You know, that tough guy part of us who thinks its in control when instead its his sister, the emotional/intuitive part [&#8230;]]]></description>
+		
+					<wfw:commentRss>/2009/02/13/making-rational-decisions/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">848</post-id>	</item>
+	</channel>
+</rss>

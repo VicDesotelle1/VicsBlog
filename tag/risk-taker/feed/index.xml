@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Risk Taker &#8211; VicDesotelle.com</title>
+	<atom:link href="/tag/risk-taker/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Discovery Colabs, LLC - &#34;Be The Change&#34;</description>
+	<lastBuildDate>Fri, 30 Sep 2016 02:01:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2016/09/cropped-cropped-crossing-bridges-32x32.jpg</url>
+	<title>Risk Taker &#8211; VicDesotelle.com</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">117344633</site>	<item>
+		<title>Put in Values and an Organizational Structure That Will Stimulate Innovation</title>
+		<link>/2009/07/21/put-in-values-and-an-organizational-structure-that-will-stimulate-innovation/</link>
+					<comments>/2009/07/21/put-in-values-and-an-organizational-structure-that-will-stimulate-innovation/#respond</comments>
+		
+		<dc:creator><![CDATA[VicDesotelle]]></dc:creator>
+		<pubDate>Tue, 21 Jul 2009 21:00:58 +0000</pubDate>
+				<category><![CDATA[* Sustainable Development]]></category>
+		<category><![CDATA[Journey]]></category>
+		<category><![CDATA[Reputation]]></category>
+		<category><![CDATA[Risk Taker]]></category>
+		<guid isPermaLink="false">http://discoveryfuel.com/organizational-learning/put-in-values-and-an-organizational-structure-that-will-stimulate-innovation/</guid>
+
+					<description><![CDATA[Donald Mitchell asked: le associate industry-changing innovation with high technology products and services, and certainly those industries create lots of innovation. On the other hand, almost every business seems to enjoy the potential to be more innovative if people think about the business that way. Few industries had a greater reputation for being stodgy than [&#8230;]]]></description>
+		
+					<wfw:commentRss>/2009/07/21/put-in-values-and-an-organizational-structure-that-will-stimulate-innovation/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2047</post-id>	</item>
+	</channel>
+</rss>

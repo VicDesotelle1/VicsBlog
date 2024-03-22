@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>humane &#8211; VicDesotelle.com</title>
+	<atom:link href="/tag/humane/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Discovery Colabs, LLC - &#34;Be The Change&#34;</description>
+	<lastBuildDate>Tue, 03 Jan 2012 19:50:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2016/09/cropped-cropped-crossing-bridges-32x32.jpg</url>
+	<title>humane &#8211; VicDesotelle.com</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">117344633</site>	<item>
+		<title>The Need For Communicating About Our Communication</title>
+		<link>/2008/12/29/the-need-for-communicating-about-our-communication/</link>
+					<comments>/2008/12/29/the-need-for-communicating-about-our-communication/#respond</comments>
+		
+		<dc:creator><![CDATA[VicDesotelle]]></dc:creator>
+		<pubDate>Mon, 29 Dec 2008 20:31:35 +0000</pubDate>
+				<category><![CDATA[* Collaborative Design]]></category>
+		<category><![CDATA[* Leadership Ecology]]></category>
+		<category><![CDATA[communicate]]></category>
+		<category><![CDATA[communication]]></category>
+		<category><![CDATA[culture]]></category>
+		<category><![CDATA[ecology]]></category>
+		<category><![CDATA[human]]></category>
+		<category><![CDATA[humane]]></category>
+		<category><![CDATA[humanity]]></category>
+		<category><![CDATA[mass]]></category>
+		<category><![CDATA[technologies]]></category>
+		<category><![CDATA[technology]]></category>
+		<category><![CDATA[world]]></category>
+		<guid isPermaLink="false">http://discoveryfuel.com/?p=558</guid>
+
+					<description><![CDATA[Join Abhijit and I in this dialog about the evolution of &#8220;communication&#8221; &#8230; &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;- Dec 24, 2008 AM Vic, I&#8217;ve been in the business of mass communication and making efforts to ease the man-to-man communication process. Abhijit Banerjee, 54 Calcutta India &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;- Hello Abhijit, I am curious to learn more about your statement: &#8221; efforts [&#8230;]]]></description>
+		
+					<wfw:commentRss>/2008/12/29/the-need-for-communicating-about-our-communication/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">558</post-id>	</item>
+	</channel>
+</rss>

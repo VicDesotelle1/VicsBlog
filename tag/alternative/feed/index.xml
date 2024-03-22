@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>alternative &#8211; VicDesotelle.com</title>
+	<atom:link href="/tag/alternative/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Discovery Colabs, LLC - &#34;Be The Change&#34;</description>
+	<lastBuildDate>Tue, 03 Jan 2012 18:49:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2016/09/cropped-cropped-crossing-bridges-32x32.jpg</url>
+	<title>alternative &#8211; VicDesotelle.com</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">117344633</site>	<item>
+		<title>Reconsidering the Meaning of &#034;New&#034; Technology</title>
+		<link>/2009/02/09/reconsidering-the-meaning-of-new-technology/</link>
+					<comments>/2009/02/09/reconsidering-the-meaning-of-new-technology/#respond</comments>
+		
+		<dc:creator><![CDATA[VicDesotelle]]></dc:creator>
+		<pubDate>Mon, 09 Feb 2009 22:06:27 +0000</pubDate>
+				<category><![CDATA[* Sustainable Development]]></category>
+		<category><![CDATA[alternative]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[ecology]]></category>
+		<category><![CDATA[holistic]]></category>
+		<category><![CDATA[impact]]></category>
+		<category><![CDATA[principles]]></category>
+		<category><![CDATA[sustainability]]></category>
+		<category><![CDATA[technology]]></category>
+		<guid isPermaLink="false">http://discoveryfuel.com/?p=846</guid>
+
+					<description><![CDATA[A critical piece to technological success in an emerging era of the green (or sustainable) design marketplace is to, not just create cool, cutting edge technologies, but to also define design itself differently so that technology&#8217;s underlying processes comply with the new principles of triple bottom line (sustainability) management. That is, we must redesign our [&#8230;]]]></description>
+		
+					<wfw:commentRss>/2009/02/09/reconsidering-the-meaning-of-new-technology/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">846</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>thinking &#8211; VicDesotelle.com</title>
+	<atom:link href="/tag/thinking/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Discovery Colabs, LLC - &#34;Be The Change&#34;</description>
+	<lastBuildDate>Tue, 03 Jan 2012 18:48:58 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2016/09/cropped-cropped-crossing-bridges-32x32.jpg</url>
+	<title>thinking &#8211; VicDesotelle.com</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">117344633</site>	<item>
+		<title>About A More Advanced Form Of Leadership</title>
+		<link>/2008/12/08/about-the-making-of-todays-leaders/</link>
+					<comments>/2008/12/08/about-the-making-of-todays-leaders/#respond</comments>
+		
+		<dc:creator><![CDATA[VicDesotelle]]></dc:creator>
+		<pubDate>Mon, 08 Dec 2008 10:00:40 +0000</pubDate>
+				<category><![CDATA[* Leadership Ecology]]></category>
+		<category><![CDATA[emergent]]></category>
+		<category><![CDATA[fear]]></category>
+		<category><![CDATA[imagine]]></category>
+		<category><![CDATA[knowing]]></category>
+		<category><![CDATA[kostelas]]></category>
+		<category><![CDATA[leaders]]></category>
+		<category><![CDATA[leadership]]></category>
+		<category><![CDATA[minds]]></category>
+		<category><![CDATA[original thinking]]></category>
+		<category><![CDATA[safe]]></category>
+		<category><![CDATA[thinking]]></category>
+		<category><![CDATA[thought]]></category>
+		<category><![CDATA[thought leader]]></category>
+		<guid isPermaLink="false">http://discoveryfuel.com/?p=425</guid>
+
+					<description><![CDATA[My good friend Maria Kostelas from Flutes of the World is an exceptional thinker, innovator, musician, and writer. She shared some thoughts with me today. Read up &#8230; Maria says &#8230; &#8220;Thought leaders do not wait in silence. Nor do they wait for others&#8217; minds to be opened, or for safe places to speak into. [&#8230;]]]></description>
+		
+					<wfw:commentRss>/2008/12/08/about-the-making-of-todays-leaders/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">425</post-id>	</item>
+	</channel>
+</rss>

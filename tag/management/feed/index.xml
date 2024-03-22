@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>management &#8211; VicDesotelle.com</title>
+	<atom:link href="/tag/management/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Discovery Colabs, LLC - &#34;Be The Change&#34;</description>
+	<lastBuildDate>Tue, 18 Oct 2016 00:48:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2016/09/cropped-cropped-crossing-bridges-32x32.jpg</url>
+	<title>management &#8211; VicDesotelle.com</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">117344633</site>	<item>
+		<title>Concentrix Management:  How To Cross Pollinate Innovation Teams</title>
+		<link>/2011/12/01/concentrix-management-how-to-cross-pollinate-innovation-teams/</link>
+					<comments>/2011/12/01/concentrix-management-how-to-cross-pollinate-innovation-teams/#respond</comments>
+		
+		<dc:creator><![CDATA[VicDesotelle]]></dc:creator>
+		<pubDate>Thu, 01 Dec 2011 13:00:57 +0000</pubDate>
+				<category><![CDATA[* Collaborative Design]]></category>
+		<category><![CDATA[* Organizational Learning]]></category>
+		<category><![CDATA[concentrix]]></category>
+		<category><![CDATA[cross]]></category>
+		<category><![CDATA[knowledge]]></category>
+		<category><![CDATA[management]]></category>
+		<category><![CDATA[pollinate]]></category>
+		<category><![CDATA[teams]]></category>
+		<category><![CDATA[transfer]]></category>
+		<category><![CDATA[working groups]]></category>
+		<guid isPermaLink="false">http://discoveryfuel.com/?p=418</guid>
+
+					<description><![CDATA[<p><img data-tf-not-load="1" fetchpriority="high" loading="auto" decoding="auto" width="641" height="624" src="/wp-content/uploads/sites/2/2011/12/ConcentrixManagement.gif" class="attachment-full size-full wp-post-image" alt="" decoding="async" fetchpriority="high" /></p>Concentrix Management (CM) is a model for distributing and managing information with the intent to cross pollinate ideas and concepts across sub-groups so that each part of the system knows about the &#8216;whole&#8217; (of which all working groups within it reside) without overloading any one person. &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8211; We are each at the center of our [&#8230;]]]></description>
+		
+					<wfw:commentRss>/2011/12/01/concentrix-management-how-to-cross-pollinate-innovation-teams/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">418</post-id>	</item>
+	</channel>
+</rss>

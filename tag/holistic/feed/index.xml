@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>holistic &#8211; VicDesotelle.com</title>
+	<atom:link href="/tag/holistic/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Discovery Colabs, LLC - &#34;Be The Change&#34;</description>
+	<lastBuildDate>Wed, 18 Aug 2021 16:50:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2016/09/cropped-cropped-crossing-bridges-32x32.jpg</url>
+	<title>holistic &#8211; VicDesotelle.com</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">117344633</site>	<item>
+		<title>Ecological Design Principles</title>
+		<link>/2008/12/06/ecological-design-principles/</link>
+					<comments>/2008/12/06/ecological-design-principles/#respond</comments>
+		
+		<dc:creator><![CDATA[VicDesotelle]]></dc:creator>
+		<pubDate>Sat, 06 Dec 2008 12:11:41 +0000</pubDate>
+				<category><![CDATA[* Collaborative Design]]></category>
+		<category><![CDATA[* Sustainable Development]]></category>
+		<category><![CDATA[balance]]></category>
+		<category><![CDATA[boundaries]]></category>
+		<category><![CDATA[Capra]]></category>
+		<category><![CDATA[cycle]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[dynamic]]></category>
+		<category><![CDATA[ecological]]></category>
+		<category><![CDATA[ecology]]></category>
+		<category><![CDATA[holistic]]></category>
+		<category><![CDATA[model]]></category>
+		<category><![CDATA[principles]]></category>
+		<category><![CDATA[systems]]></category>
+		<guid isPermaLink="false">http://discoveryfuel.com/?p=374</guid>
+
+					<description><![CDATA[<p><img data-tf-not-load="1" fetchpriority="high" loading="auto" decoding="auto" width="659" height="949" src="/wp-content/uploads/sites/2/2008/12/CapraEcologicalDesignPrinciples.jpg" class="attachment-full size-full wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="/wp-content/uploads/sites/2/2008/12/CapraEcologicalDesignPrinciples.jpg 659w, /wp-content/uploads/sites/2/2008/12/CapraEcologicalDesignPrinciples-208x300.jpg 208w" sizes="(max-width: 659px) 100vw, 659px" /></p>Principles of EcologyFrom the Center for Ecoliteracy (By Fritjof Capra) 1-Networks*Interdependence, Diversity, and Complexity* The members of an ecosystem are interconnected in a vast network of relationships in which all life processes are interdependent and achieve stability through a diversity of linkages. 2-Boundaries*Scale and Limits* At all scales of nature, we find living systems nesting [&#8230;]]]></description>
+		
+					<wfw:commentRss>/2008/12/06/ecological-design-principles/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">374</post-id>	</item>
+		<item>
+		<title>Reconsidering the Meaning of &#034;New&#034; Technology</title>
+		<link>/2009/02/09/reconsidering-the-meaning-of-new-technology/</link>
+					<comments>/2009/02/09/reconsidering-the-meaning-of-new-technology/#respond</comments>
+		
+		<dc:creator><![CDATA[VicDesotelle]]></dc:creator>
+		<pubDate>Mon, 09 Feb 2009 22:06:27 +0000</pubDate>
+				<category><![CDATA[* Sustainable Development]]></category>
+		<category><![CDATA[alternative]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[ecology]]></category>
+		<category><![CDATA[holistic]]></category>
+		<category><![CDATA[impact]]></category>
+		<category><![CDATA[principles]]></category>
+		<category><![CDATA[sustainability]]></category>
+		<category><![CDATA[technology]]></category>
+		<guid isPermaLink="false">http://discoveryfuel.com/?p=846</guid>
+
+					<description><![CDATA[A critical piece to technological success in an emerging era of the green (or sustainable) design marketplace is to, not just create cool, cutting edge technologies, but to also define design itself differently so that technology&#8217;s underlying processes comply with the new principles of triple bottom line (sustainability) management. That is, we must redesign our [&#8230;]]]></description>
+		
+					<wfw:commentRss>/2009/02/09/reconsidering-the-meaning-of-new-technology/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">846</post-id>	</item>
+	</channel>
+</rss>

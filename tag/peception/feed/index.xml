@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>peception &#8211; VicDesotelle.com</title>
+	<atom:link href="/tag/peception/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Discovery Colabs, LLC - &#34;Be The Change&#34;</description>
+	<lastBuildDate>Tue, 03 Jan 2012 19:19:36 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2016/09/cropped-cropped-crossing-bridges-32x32.jpg</url>
+	<title>peception &#8211; VicDesotelle.com</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">117344633</site>	<item>
+		<title>Collaboration: The Dance Between Inner and Outer Realities</title>
+		<link>/2008/11/28/collaboration-the-dance-between-inner-and-outer-realities/</link>
+					<comments>/2008/11/28/collaboration-the-dance-between-inner-and-outer-realities/#respond</comments>
+		
+		<dc:creator><![CDATA[VicDesotelle]]></dc:creator>
+		<pubDate>Fri, 28 Nov 2008 23:52:28 +0000</pubDate>
+				<category><![CDATA[* Collaborative Design]]></category>
+		<category><![CDATA[* Leadership Ecology]]></category>
+		<category><![CDATA[collaboration]]></category>
+		<category><![CDATA[collective]]></category>
+		<category><![CDATA[control]]></category>
+		<category><![CDATA[individual]]></category>
+		<category><![CDATA[inner]]></category>
+		<category><![CDATA[outer]]></category>
+		<category><![CDATA[peception]]></category>
+		<category><![CDATA[power]]></category>
+		<category><![CDATA[realities]]></category>
+		<category><![CDATA[reality]]></category>
+		<category><![CDATA[relative]]></category>
+		<category><![CDATA[within]]></category>
+		<category><![CDATA[without]]></category>
+		<guid isPermaLink="false">http://discoveryfuel.com/?p=414</guid>
+
+					<description><![CDATA[So what&#8217;s real? And what influences it? Is it all withIN me where the control power lies? Or is it withOUT me? &#8230; And what the hec does this have to do with COLLABORATION ? &#60;p style=&#8221;text-align:left&#8221;&#62;&#60;img src=&#8221;http://www.mi2g.com/cgi/mi2g/press/images/h_consciousness.jpg&#8221;/&#62;&#60;/p&#62; Some say to themselves; I have no power of my own and I am controlled by the [&#8230;]]]></description>
+		
+					<wfw:commentRss>/2008/11/28/collaboration-the-dance-between-inner-and-outer-realities/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">414</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Community of Practice &#8211; VicDesotelle.com</title>
+	<atom:link href="/tag/community-of-practice/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Discovery Colabs, LLC - &#34;Be The Change&#34;</description>
+	<lastBuildDate>Mon, 26 Sep 2016 20:20:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2016/09/cropped-cropped-crossing-bridges-32x32.jpg</url>
+	<title>Community of Practice &#8211; VicDesotelle.com</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">117344633</site>	<item>
+		<title>Social Innovation: A Three Phase Transformation Process</title>
+		<link>/2011/03/22/innovation-a-three-phase-transformation-process/</link>
+					<comments>/2011/03/22/innovation-a-three-phase-transformation-process/#respond</comments>
+		
+		<dc:creator><![CDATA[VicDesotelle]]></dc:creator>
+		<pubDate>Tue, 22 Mar 2011 12:17:57 +0000</pubDate>
+				<category><![CDATA[* Collaborative Design]]></category>
+		<category><![CDATA[* Social Innovation]]></category>
+		<category><![CDATA[* Sustainable Development]]></category>
+		<category><![CDATA[Favorites]]></category>
+		<category><![CDATA[Community of Practice]]></category>
+		<guid isPermaLink="false">http://discoveryfuel.com/?p=376</guid>
+
+					<description><![CDATA[<p><img data-tf-not-load="1" fetchpriority="high" loading="auto" decoding="auto" width="1700" height="2337" src="/wp-content/uploads/sites/2/2011/03/8GateAlignmentMap.jpeg" class="attachment-full size-full wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="/wp-content/uploads/sites/2/2011/03/8GateAlignmentMap.jpeg 1700w, /wp-content/uploads/sites/2/2011/03/8GateAlignmentMap-218x300.jpeg 218w, /wp-content/uploads/sites/2/2011/03/8GateAlignmentMap-744x1024.jpeg 744w" sizes="(max-width: 1700px) 100vw, 1700px" /></p>I often like to dabble in the abstract. There, I am taken to transitory state that help me feel closer to the Creative Source. For example: below consists of two intertwined trinity models, of which I like to play with when considering the architecture of &#8216;whole systems&#8217;. These models help us to both &#8216;look at&#8217; [&#8230;]]]></description>
+		
+					<wfw:commentRss>/2011/03/22/innovation-a-three-phase-transformation-process/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">376</post-id>	</item>
+	</channel>
+</rss>

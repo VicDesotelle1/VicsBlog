@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>unsustainable &#8211; VicDesotelle.com</title>
+	<atom:link href="/tag/unsustainable/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Discovery Colabs, LLC - &#34;Be The Change&#34;</description>
+	<lastBuildDate>Tue, 18 Oct 2016 17:29:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2016/09/cropped-cropped-crossing-bridges-32x32.jpg</url>
+	<title>unsustainable &#8211; VicDesotelle.com</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">117344633</site>	<item>
+		<title>Unsustainable Everything</title>
+		<link>/2016/09/09/unsustainable-everything/</link>
+					<comments>/2016/09/09/unsustainable-everything/#respond</comments>
+		
+		<dc:creator><![CDATA[VicDesotelle]]></dc:creator>
+		<pubDate>Fri, 09 Sep 2016 22:39:45 +0000</pubDate>
+				<category><![CDATA[* Sustainable Development]]></category>
+		<category><![CDATA[unsustainable]]></category>
+		<guid isPermaLink="false">http://discoveryfuel.com/?p=4955</guid>
+
+					<description><![CDATA[<p><img data-tf-not-load="1" fetchpriority="high" loading="auto" decoding="auto" width="1024" height="578" src="/wp-content/uploads/sites/2/2010/06/chris-hedges-empire-of-illusion.png" class="attachment-full size-full wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="/wp-content/uploads/sites/2/2010/06/chris-hedges-empire-of-illusion.png 1024w, /wp-content/uploads/sites/2/2010/06/chris-hedges-empire-of-illusion-300x169.png 300w, /wp-content/uploads/sites/2/2010/06/chris-hedges-empire-of-illusion-768x434.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>I love it when somebody is able to synthesize the incoming data into a meaningful message. Watch this video and understand how the world&#8217;s unsustainable economy works &#8230; Guess what my dear sustainability activists: The work you are doing? &#8230; It&#8217;s &#8216;not&#8217; working. Sustainability will go to another level of understanding after you watch this video.]]></description>
+		
+					<wfw:commentRss>/2016/09/09/unsustainable-everything/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4955</post-id>	</item>
+	</channel>
+</rss>

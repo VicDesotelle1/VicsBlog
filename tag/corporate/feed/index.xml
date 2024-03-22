@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>corporate &#8211; VicDesotelle.com</title>
+	<atom:link href="/tag/corporate/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Discovery Colabs, LLC - &#34;Be The Change&#34;</description>
+	<lastBuildDate>Sat, 01 Mar 2014 17:17:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2016/09/cropped-cropped-crossing-bridges-32x32.jpg</url>
+	<title>corporate &#8211; VicDesotelle.com</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">117344633</site>	<item>
+		<title>The Link Between Ethics and Innovation</title>
+		<link>/2009/08/14/the-link-between-ethics-and-innovation/</link>
+					<comments>/2009/08/14/the-link-between-ethics-and-innovation/#respond</comments>
+		
+		<dc:creator><![CDATA[VicDesotelle]]></dc:creator>
+		<pubDate>Fri, 14 Aug 2009 08:00:01 +0000</pubDate>
+				<category><![CDATA[* Leadership Ecology]]></category>
+		<category><![CDATA[* Sustainable Development]]></category>
+		<category><![CDATA[corporate]]></category>
+		<category><![CDATA[ethics]]></category>
+		<category><![CDATA[global ethic]]></category>
+		<category><![CDATA[Innovation]]></category>
+		<category><![CDATA[policy]]></category>
+		<guid isPermaLink="false">http://discoveryfuel.com/?p=537</guid>
+
+					<description><![CDATA[Ethics to Innovation Article By Vic Desotelle and Michael Kaufman Table of Contents Introduction The Ethics/Innovation Relationship What are Ethics? Forces Creating Managerial Dilemmas (Principle Forces Creating Practical Dilemmas) What is Innovation? Innovative Wholes and Inventive Systems (Fractal Wholes vs Fractured Parts) The Emerging Global Ethic Innovation through Ethical Tension Sustainability: Bridge from Ethics to [&#8230;]]]></description>
+		
+					<wfw:commentRss>/2009/08/14/the-link-between-ethics-and-innovation/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">537</post-id>	</item>
+	</channel>
+</rss>

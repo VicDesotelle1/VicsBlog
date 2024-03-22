@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>education &#8211; VicDesotelle.com</title>
+	<atom:link href="/tag/education/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Discovery Colabs, LLC - &#34;Be The Change&#34;</description>
+	<lastBuildDate>Tue, 12 Jun 2018 23:20:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2016/09/cropped-cropped-crossing-bridges-32x32.jpg</url>
+	<title>education &#8211; VicDesotelle.com</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">117344633</site>	<item>
+		<title>Vic on Creative Learning</title>
+		<link>/2008/10/05/vic-on-creative-learning/</link>
+					<comments>/2008/10/05/vic-on-creative-learning/#respond</comments>
+		
+		<dc:creator><![CDATA[VicDesotelle]]></dc:creator>
+		<pubDate>Mon, 06 Oct 2008 04:46:01 +0000</pubDate>
+				<category><![CDATA[* Collaborative Design]]></category>
+		<category><![CDATA[change]]></category>
+		<category><![CDATA[Collaborative Design]]></category>
+		<category><![CDATA[education]]></category>
+		<category><![CDATA[Innovation]]></category>
+		<category><![CDATA[learn]]></category>
+		<guid isPermaLink="false">http://discoveryfuel.com/?p=84</guid>
+
+					<description><![CDATA[Let&#8217;s set the stage for what will be discussed here: What does this subject have to do with anything outside of a school environment? Well allow me to elaborate &#8230; The world has changed. Noooo, the world is not &#8216;about&#8217; to change, it HAS changed. And the way we learn no longer fits into the [&#8230;]]]></description>
+		
+					<wfw:commentRss>/2008/10/05/vic-on-creative-learning/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">6172</post-id>	</item>
+		<item>
+		<title>Online Learning To Reshape Our World ?</title>
+		<link>/2009/02/27/online-learning-to-reshape-our-world/</link>
+					<comments>/2009/02/27/online-learning-to-reshape-our-world/#respond</comments>
+		
+		<dc:creator><![CDATA[VicDesotelle]]></dc:creator>
+		<pubDate>Fri, 27 Feb 2009 23:04:08 +0000</pubDate>
+				<category><![CDATA[* Collaborative Design]]></category>
+		<category><![CDATA[* Organizational Learning]]></category>
+		<category><![CDATA[economy]]></category>
+		<category><![CDATA[education]]></category>
+		<category><![CDATA[elearning]]></category>
+		<category><![CDATA[online learning]]></category>
+		<category><![CDATA[Virtual Collaboration]]></category>
+		<guid isPermaLink="false">http://discoveryfuel.com/?p=875</guid>
+
+					<description><![CDATA[I&#8217;ve been behind the mark in getting some good material out relating to online collaboration tools because I&#8217;m actually formulating new potions back in my personal &#8216;Colab&#8217;oratory. I am continuing my search for KISS (keep it stupid simple) online environments that will allow us all to connect online in amazing ways &#8211; no matter where [&#8230;]]]></description>
+		
+					<wfw:commentRss>/2009/02/27/online-learning-to-reshape-our-world/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">875</post-id>	</item>
+	</channel>
+</rss>

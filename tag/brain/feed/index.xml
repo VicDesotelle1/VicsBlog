@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>brain &#8211; VicDesotelle.com</title>
+	<atom:link href="/tag/brain/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Discovery Colabs, LLC - &#34;Be The Change&#34;</description>
+	<lastBuildDate>Fri, 30 Sep 2016 02:01:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2016/09/cropped-cropped-crossing-bridges-32x32.jpg</url>
+	<title>brain &#8211; VicDesotelle.com</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">117344633</site>	<item>
+		<title>Web Technology as Sacred</title>
+		<link>/2009/08/16/web-technology-as-sacred/</link>
+					<comments>/2009/08/16/web-technology-as-sacred/#respond</comments>
+		
+		<dc:creator><![CDATA[VicDesotelle]]></dc:creator>
+		<pubDate>Mon, 17 Aug 2009 04:09:48 +0000</pubDate>
+				<category><![CDATA[* Collaborative Design]]></category>
+		<category><![CDATA[* Sustainable Development]]></category>
+		<category><![CDATA[brain]]></category>
+		<category><![CDATA[gaia]]></category>
+		<category><![CDATA[global]]></category>
+		<category><![CDATA[interconnected]]></category>
+		<category><![CDATA[matter]]></category>
+		<category><![CDATA[meaning]]></category>
+		<category><![CDATA[neural network]]></category>
+		<category><![CDATA[sacred]]></category>
+		<category><![CDATA[spirit]]></category>
+		<category><![CDATA[technology]]></category>
+		<category><![CDATA[web]]></category>
+		<guid isPermaLink="false">http://discoveryfuel.com/?p=761</guid>
+
+					<description><![CDATA[I want you to take your business hat off for a minute to read what&#8217;s below. I am about to enter the twilight zone and attempt to bring in what some may consider ridiculous or impossible. For me, what I am about to say touches on the profound, and believe it is a critical subject [&#8230;]]]></description>
+		
+					<wfw:commentRss>/2009/08/16/web-technology-as-sacred/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">761</post-id>	</item>
+	</channel>
+</rss>

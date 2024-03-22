@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>spiritual connection &#8211; VicDesotelle.com</title>
+	<atom:link href="/tag/spiritual-connection/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Discovery Colabs, LLC - &#34;Be The Change&#34;</description>
+	<lastBuildDate>Tue, 03 Jan 2012 18:48:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2016/09/cropped-cropped-crossing-bridges-32x32.jpg</url>
+	<title>spiritual connection &#8211; VicDesotelle.com</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">117344633</site>	<item>
+		<title>Insights on Team Identity and Self Expression</title>
+		<link>/2008/10/30/insights-on-team-identity-and-self-expression/</link>
+					<comments>/2008/10/30/insights-on-team-identity-and-self-expression/#respond</comments>
+		
+		<dc:creator><![CDATA[VicDesotelle]]></dc:creator>
+		<pubDate>Thu, 30 Oct 2008 22:14:19 +0000</pubDate>
+				<category><![CDATA[* Collaborative Design]]></category>
+		<category><![CDATA[* Leadership Ecology]]></category>
+		<category><![CDATA[achievement]]></category>
+		<category><![CDATA[authentic]]></category>
+		<category><![CDATA[choices]]></category>
+		<category><![CDATA[choosing]]></category>
+		<category><![CDATA[cultural]]></category>
+		<category><![CDATA[culture]]></category>
+		<category><![CDATA[freedom]]></category>
+		<category><![CDATA[identity]]></category>
+		<category><![CDATA[self]]></category>
+		<category><![CDATA[self expression]]></category>
+		<category><![CDATA[spiriitual]]></category>
+		<category><![CDATA[spiritual connection]]></category>
+		<category><![CDATA[way of being]]></category>
+		<guid isPermaLink="false">http://discoveryfuel.com/?p=284</guid>
+
+					<description><![CDATA[This is a real experience relating to my own personal authenticty awarenesss and development. I encourage you to do the same. Below are insights from John Voris of Authentic Systems after a healthy discussion on personal development and team building. Go ahead and listen in&#8230; &#8212; &#8220;Vic,  It was a pleasure talking with you. We [&#8230;]]]></description>
+		
+					<wfw:commentRss>/2008/10/30/insights-on-team-identity-and-self-expression/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">284</post-id>	</item>
+	</channel>
+</rss>

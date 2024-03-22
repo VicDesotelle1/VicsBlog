@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>energy &#8211; VicDesotelle.com</title>
+	<atom:link href="/tag/energy/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Discovery Colabs, LLC - &#34;Be The Change&#34;</description>
+	<lastBuildDate>Tue, 03 Jan 2012 18:48:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2016/09/cropped-cropped-crossing-bridges-32x32.jpg</url>
+	<title>energy &#8211; VicDesotelle.com</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">117344633</site>	<item>
+		<title>Defining the Innovation Economy</title>
+		<link>/2009/01/05/defining-the-innovation-economy/</link>
+					<comments>/2009/01/05/defining-the-innovation-economy/#respond</comments>
+		
+		<dc:creator><![CDATA[VicDesotelle]]></dc:creator>
+		<pubDate>Tue, 06 Jan 2009 01:55:06 +0000</pubDate>
+				<category><![CDATA[* Collaborative Design]]></category>
+		<category><![CDATA[* Leadership Ecology]]></category>
+		<category><![CDATA[crossing the chasm]]></category>
+		<category><![CDATA[darwin]]></category>
+		<category><![CDATA[ecosystems]]></category>
+		<category><![CDATA[energy]]></category>
+		<category><![CDATA[iinnovate]]></category>
+		<category><![CDATA[moore]]></category>
+		<category><![CDATA[renewable]]></category>
+		<category><![CDATA[trends]]></category>
+		<guid isPermaLink="false">http://discoveryfuel.com/?p=541</guid>
+
+					<description><![CDATA[Podcast from iInnovate http://iinnovate.blogspot.com/ LISTEN UP &#8230; Geoffrey Moore &#8211; VC, Consultant, and Bestselling Author of Crossing the Chasm &#8230; Geoffrey Moore is a VC with Mohr Davidow Ventures, consultant and, most famously, the bestselling author of Crossing the Chasm, Inside the Tornado and Dealing with Darwin. http://iinnovate.blogspot.com/2007/01/geoffrey-moore-bestselling-author-of.html Talks about: -Darwin vs Ecosystems -Competition vs [&#8230;]]]></description>
+		
+					<wfw:commentRss>/2009/01/05/defining-the-innovation-economy/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">541</post-id>	</item>
+	</channel>
+</rss>

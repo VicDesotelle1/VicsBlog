@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>coaches &#8211; VicDesotelle.com</title>
+	<atom:link href="/tag/coaches/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Discovery Colabs, LLC - &#34;Be The Change&#34;</description>
+	<lastBuildDate>Wed, 19 May 2021 20:15:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2016/09/cropped-cropped-crossing-bridges-32x32.jpg</url>
+	<title>coaches &#8211; VicDesotelle.com</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">117344633</site>	<item>
+		<title>The Art of Authentic Leadership</title>
+		<link>/2011/12/20/authentic-leadership-coaching-for-coaches-executives-and-managers/</link>
+					<comments>/2011/12/20/authentic-leadership-coaching-for-coaches-executives-and-managers/#respond</comments>
+		
+		<dc:creator><![CDATA[VicDesotelle]]></dc:creator>
+		<pubDate>Tue, 20 Dec 2011 19:58:36 +0000</pubDate>
+				<category><![CDATA[* Leadership Ecology]]></category>
+		<category><![CDATA[* Social Innovation]]></category>
+		<category><![CDATA[Favorites]]></category>
+		<category><![CDATA[authentic]]></category>
+		<category><![CDATA[authenticity]]></category>
+		<category><![CDATA[ceo]]></category>
+		<category><![CDATA[chief coach]]></category>
+		<category><![CDATA[coaches]]></category>
+		<category><![CDATA[coaching]]></category>
+		<category><![CDATA[ethics]]></category>
+		<category><![CDATA[executive executives]]></category>
+		<category><![CDATA[leader]]></category>
+		<category><![CDATA[leaders]]></category>
+		<category><![CDATA[leadership]]></category>
+		<category><![CDATA[manage]]></category>
+		<category><![CDATA[managers]]></category>
+		<category><![CDATA[meaning]]></category>
+		<category><![CDATA[meaningfulness meaningfulness]]></category>
+		<category><![CDATA[morality]]></category>
+		<category><![CDATA[morals]]></category>
+		<category><![CDATA[officer]]></category>
+		<category><![CDATA[officers]]></category>
+		<category><![CDATA[team]]></category>
+		<category><![CDATA[teams]]></category>
+		<category><![CDATA[teamwork]]></category>
+		<category><![CDATA[train]]></category>
+		<category><![CDATA[training]]></category>
+		<category><![CDATA[truth]]></category>
+		<category><![CDATA[uncoach]]></category>
+		<category><![CDATA[uncoached]]></category>
+		<category><![CDATA[uncoaching]]></category>
+		<category><![CDATA[values]]></category>
+		<guid isPermaLink="false">http://discoveryfuel.com/?p=4993</guid>
+
+					<description><![CDATA[<p><img data-tf-not-load="1" fetchpriority="high" loading="auto" decoding="auto" width="150" height="150" src="/wp-content/uploads/sites/2/2011/12/mirrormirror150x150.jpg" class="attachment-full size-full wp-post-image" alt="" decoding="async" srcset="/wp-content/uploads/sites/2/2011/12/mirrormirror150x150.jpg 150w, /wp-content/uploads/sites/2/2011/12/mirrormirror150x150-47x48.jpg 47w" sizes="(max-width: 150px) 100vw, 150px" /></p>How To Become An Authentic Leader By Vic Desotelle Authentic Leadership is for those whochoose to ‘BE change’ as the way to ‘SEE change’ ____________________________ Authenticity as Prerequisite for Leadership Today’s growing global problems can not be solved using the same methods that created them in the first place. Thus, we must evolve our approaches [&#8230;]]]></description>
+		
+					<wfw:commentRss>/2011/12/20/authentic-leadership-coaching-for-coaches-executives-and-managers/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4993</post-id>	</item>
+	</channel>
+</rss>

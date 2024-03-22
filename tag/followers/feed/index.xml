@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>followers &#8211; VicDesotelle.com</title>
+	<atom:link href="/tag/followers/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Discovery Colabs, LLC - &#34;Be The Change&#34;</description>
+	<lastBuildDate>Fri, 30 Sep 2016 02:01:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2016/09/cropped-cropped-crossing-bridges-32x32.jpg</url>
+	<title>followers &#8211; VicDesotelle.com</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">117344633</site>	<item>
+		<title>A Practical Theory On Leadership &#038; Collaboration &#8211; &#8216;The Shirtless Dancing Guy&#8217;</title>
+		<link>/2010/05/28/the-shirtless-dancing-guy-a-pratical-theory-on-leadership/</link>
+					<comments>/2010/05/28/the-shirtless-dancing-guy-a-pratical-theory-on-leadership/#respond</comments>
+		
+		<dc:creator><![CDATA[VicDesotelle]]></dc:creator>
+		<pubDate>Fri, 28 May 2010 18:59:41 +0000</pubDate>
+				<category><![CDATA[* Collaborative Design]]></category>
+		<category><![CDATA[* Leadership Ecology]]></category>
+		<category><![CDATA[* Organizational Learning]]></category>
+		<category><![CDATA[change]]></category>
+		<category><![CDATA[culture]]></category>
+		<category><![CDATA[followers]]></category>
+		<category><![CDATA[leaders]]></category>
+		<category><![CDATA[Leadership Ecology]]></category>
+		<category><![CDATA[movements]]></category>
+		<guid isPermaLink="false">http://discoveryfuel.com/?p=4913</guid>
+
+					<description><![CDATA[I got this video off of Charles Lemos&#8217; site and was referred to it by Ben Roberts&#8217; Facebook conversation. Derek Sivers gave this presentation at the TED Conference this week and got a standing ovation. It&#8217;s pretty brilliant in its takeaway. The video below is a healthy perspective on the collective&#8217;s role in leadership, especially [&#8230;]]]></description>
+		
+					<wfw:commentRss>/2010/05/28/the-shirtless-dancing-guy-a-pratical-theory-on-leadership/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4913</post-id>	</item>
+	</channel>
+</rss>

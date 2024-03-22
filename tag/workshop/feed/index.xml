@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>workshop &#8211; VicDesotelle.com</title>
+	<atom:link href="/tag/workshop/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Discovery Colabs, LLC - &#34;Be The Change&#34;</description>
+	<lastBuildDate>Fri, 30 Sep 2016 02:00:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2016/09/cropped-cropped-crossing-bridges-32x32.jpg</url>
+	<title>workshop &#8211; VicDesotelle.com</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">117344633</site>	<item>
+		<title>Who Says It Ain&#8217;t Easy Being Green ?!  (Sustainable Business Planning Workshop)</title>
+		<link>/2007/01/16/who-says-it-aint-easy-being-green-free-workshop/</link>
+					<comments>/2007/01/16/who-says-it-aint-easy-being-green-free-workshop/#respond</comments>
+		
+		<dc:creator><![CDATA[VicDesotelle]]></dc:creator>
+		<pubDate>Tue, 16 Jan 2007 23:13:23 +0000</pubDate>
+				<category><![CDATA[* Collaborative Design]]></category>
+		<category><![CDATA[* Sustainable Development]]></category>
+		<category><![CDATA[workshop]]></category>
+		<guid isPermaLink="false">http://discoveryfuel.com/?p=2628</guid>
+
+					<description><![CDATA[How to Create a &#8216;Sustainable&#8217; Business Plan AN ONLINE WORKSHOP .Join Vic Desotelle from DiscoveryFuel.com for an ONLINE collaborative sustainable business planning workshop series. This session will allow you to preview and inquire about the series, which is for small business social entrepreneurs who have dreamed of owning a sustainable business. Learn how to make [&#8230;]]]></description>
+		
+					<wfw:commentRss>/2007/01/16/who-says-it-aint-easy-being-green-free-workshop/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2628</post-id>	</item>
+	</channel>
+</rss>

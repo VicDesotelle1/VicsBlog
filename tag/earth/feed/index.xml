@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>earth &#8211; VicDesotelle.com</title>
+	<atom:link href="/tag/earth/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Discovery Colabs, LLC - &#34;Be The Change&#34;</description>
+	<lastBuildDate>Fri, 30 Sep 2016 02:00:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2016/09/cropped-cropped-crossing-bridges-32x32.jpg</url>
+	<title>earth &#8211; VicDesotelle.com</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">117344633</site>	<item>
+		<title>Vic on Keepin&#039; it Green &#8211; the Color of &#034;Sustainable Innovation&#034;</title>
+		<link>/2008/10/06/vic-on-keepin-it-green/</link>
+					<comments>/2008/10/06/vic-on-keepin-it-green/#respond</comments>
+		
+		<dc:creator><![CDATA[VicDesotelle]]></dc:creator>
+		<pubDate>Mon, 06 Oct 2008 05:00:03 +0000</pubDate>
+				<category><![CDATA[* Sustainable Development]]></category>
+		<category><![CDATA[earth]]></category>
+		<category><![CDATA[environment]]></category>
+		<category><![CDATA[green]]></category>
+		<category><![CDATA[Innovation]]></category>
+		<category><![CDATA[sustainability]]></category>
+		<guid isPermaLink="false">http://discoveryfuel.com/?p=88</guid>
+
+					<description><![CDATA[As most of you who clicked into this space: green is no longer a do-good concept. No, in fact it has become a manditory part of defining any business, any organization, any city &#8230; really anything that we humans have the ability to think about and create will forever be different because of the green [&#8230;]]]></description>
+		
+					<wfw:commentRss>/2008/10/06/vic-on-keepin-it-green/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">6173</post-id>	</item>
+		<item>
+		<title>Vic&#8217;s Supplements Plan For Wellness &#8230; and Sustainability</title>
+		<link>/2008/05/09/vics-supplements-plan-for-wellness-and-sustainability/</link>
+					<comments>/2008/05/09/vics-supplements-plan-for-wellness-and-sustainability/#respond</comments>
+		
+		<dc:creator><![CDATA[VicDesotelle]]></dc:creator>
+		<pubDate>Fri, 09 May 2008 18:31:18 +0000</pubDate>
+				<category><![CDATA[** Insights]]></category>
+		<category><![CDATA[collaborative]]></category>
+		<category><![CDATA[conscious]]></category>
+		<category><![CDATA[deep ecology]]></category>
+		<category><![CDATA[earth]]></category>
+		<category><![CDATA[gaia]]></category>
+		<category><![CDATA[Innovation]]></category>
+		<category><![CDATA[leadership]]></category>
+		<category><![CDATA[sustainability]]></category>
+		<category><![CDATA[well being]]></category>
+		<category><![CDATA[wellness]]></category>
+		<guid isPermaLink="false">http://discoveryfuel.com/?p=5201</guid>
+
+					<description><![CDATA[Our wellness influences what we create as human beings and how it either supports or depletes the world&#8217;s complex ecology of life &#8211; a planetary well being, so to speak. Our individuality is made up of a physical body, mind(fulness) and thoughts, emotions and attitude, and spiritual connection with something greater than us. The interactions [&#8230;]]]></description>
+		
+					<wfw:commentRss>/2008/05/09/vics-supplements-plan-for-wellness-and-sustainability/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">5201</post-id>	</item>
+	</channel>
+</rss>

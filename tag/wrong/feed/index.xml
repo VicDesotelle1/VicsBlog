@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>wrong &#8211; VicDesotelle.com</title>
+	<atom:link href="/tag/wrong/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Discovery Colabs, LLC - &#34;Be The Change&#34;</description>
+	<lastBuildDate>Tue, 03 Jan 2012 19:50:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2016/09/cropped-cropped-crossing-bridges-32x32.jpg</url>
+	<title>wrong &#8211; VicDesotelle.com</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">117344633</site>	<item>
+		<title>The Notion of Right and Wrong &#8230; is Wrong</title>
+		<link>/2010/06/07/the-notion-of-right-and-wrong-is-wrong/</link>
+					<comments>/2010/06/07/the-notion-of-right-and-wrong-is-wrong/#respond</comments>
+		
+		<dc:creator><![CDATA[VicDesotelle]]></dc:creator>
+		<pubDate>Tue, 08 Jun 2010 04:02:48 +0000</pubDate>
+				<category><![CDATA[* Collaborative Design]]></category>
+		<category><![CDATA[* Leadership Ecology]]></category>
+		<category><![CDATA[beliefs]]></category>
+		<category><![CDATA[misguided]]></category>
+		<category><![CDATA[right]]></category>
+		<category><![CDATA[truth]]></category>
+		<category><![CDATA[wrong]]></category>
+		<guid isPermaLink="false">http://discoveryfuel.com/?p=4944</guid>
+
+					<description><![CDATA[The primary principle of innovation is this. It is being able to consider and change our &#8216;notions&#8217;; our so-called facts of our experiences; our factual claims; into something new that goes beyond our own individual reality. The statement of this work is at the foundation of collaboration and discovery. He speaks of science and the [&#8230;]]]></description>
+		
+					<wfw:commentRss>/2010/06/07/the-notion-of-right-and-wrong-is-wrong/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4944</post-id>	</item>
+	</channel>
+</rss>

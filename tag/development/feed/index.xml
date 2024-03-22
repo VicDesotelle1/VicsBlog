@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>development &#8211; VicDesotelle.com</title>
+	<atom:link href="/tag/development/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Discovery Colabs, LLC - &#34;Be The Change&#34;</description>
+	<lastBuildDate>Tue, 03 Jan 2012 19:50:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2016/09/cropped-cropped-crossing-bridges-32x32.jpg</url>
+	<title>development &#8211; VicDesotelle.com</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">117344633</site>	<item>
+		<title>Vic on Team Building</title>
+		<link>/2008/10/06/vic-on-team-building/</link>
+					<comments>/2008/10/06/vic-on-team-building/#respond</comments>
+		
+		<dc:creator><![CDATA[VicDesotelle]]></dc:creator>
+		<pubDate>Tue, 07 Oct 2008 02:30:51 +0000</pubDate>
+				<category><![CDATA[* Collaborative Design]]></category>
+		<category><![CDATA[* Leadership Ecology]]></category>
+		<category><![CDATA[build]]></category>
+		<category><![CDATA[collaboration]]></category>
+		<category><![CDATA[development]]></category>
+		<category><![CDATA[discovery]]></category>
+		<category><![CDATA[Innovation]]></category>
+		<category><![CDATA[Leadership Ecology]]></category>
+		<category><![CDATA[projects]]></category>
+		<category><![CDATA[sustained]]></category>
+		<category><![CDATA[teams]]></category>
+		<category><![CDATA[workplace]]></category>
+		<guid isPermaLink="false">http://discoveryfuel.com/?p=136</guid>
+
+					<description><![CDATA[Allow me to set the context for this section of my blog. For me, team building is a highly important aspect of any organization&#8217;s development. Very few of you will argue me that. However, I propose that it is rare to see team building as a process that is directly integrated into the work that [&#8230;]]]></description>
+		
+					<wfw:commentRss>/2008/10/06/vic-on-team-building/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">6174</post-id>	</item>
+	</channel>
+</rss>

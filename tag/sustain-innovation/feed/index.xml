@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Sustain Innovation &#8211; VicDesotelle.com</title>
+	<atom:link href="/tag/sustain-innovation/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Discovery Colabs, LLC - &#34;Be The Change&#34;</description>
+	<lastBuildDate>Thu, 23 Jul 2020 15:17:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2016/09/cropped-cropped-crossing-bridges-32x32.jpg</url>
+	<title>Sustain Innovation &#8211; VicDesotelle.com</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">117344633</site>	<item>
+		<title>&#034;Be The Change!&#034; &#8211; 7 Steps To Manifestation</title>
+		<link>/2009/08/01/join-a-very-unique-kind-of-community-sponsored-by-discovery-fuel/</link>
+					<comments>/2009/08/01/join-a-very-unique-kind-of-community-sponsored-by-discovery-fuel/#respond</comments>
+		
+		<dc:creator><![CDATA[VicDesotelle]]></dc:creator>
+		<pubDate>Sat, 01 Aug 2009 19:11:50 +0000</pubDate>
+				<category><![CDATA[* Leadership Ecology]]></category>
+		<category><![CDATA[* Organizational Learning]]></category>
+		<category><![CDATA[** Insights]]></category>
+		<category><![CDATA[changing normal]]></category>
+		<category><![CDATA[Sustain Innovation]]></category>
+		<category><![CDATA[Virtual Collaboration]]></category>
+		<guid isPermaLink="false">http://discoveryfuel.com/?p=949</guid>
+
+					<description><![CDATA[&#8220;Be the change you want to see in the world.&#8221; Join &#8220;Be The Change!&#8221; Twibes Twitter Group /// Participate in the &#8220;Be The Change!&#8221; Dialogue Project Join One Of Our Discovery Communities At The Bottom Of This Page Mohandas Gandhi&#8217;s quote above is powerful, isn&#8217;t it? Being the change requires that we embody change itself. [&#8230;]]]></description>
+		
+					<wfw:commentRss>/2009/08/01/join-a-very-unique-kind-of-community-sponsored-by-discovery-fuel/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">949</post-id>	</item>
+		<item>
+		<title>Vic on Sustainable Innovation</title>
+		<link>/2008/10/27/about-sustainable-innovation/</link>
+					<comments>/2008/10/27/about-sustainable-innovation/#respond</comments>
+		
+		<dc:creator><![CDATA[VicDesotelle]]></dc:creator>
+		<pubDate>Tue, 28 Oct 2008 01:42:20 +0000</pubDate>
+				<category><![CDATA[* Sustainable Development]]></category>
+		<category><![CDATA[Innovation]]></category>
+		<category><![CDATA[organizational innovation]]></category>
+		<category><![CDATA[Social innovation]]></category>
+		<category><![CDATA[Sustain Innovation]]></category>
+		<category><![CDATA[sustainability]]></category>
+		<category><![CDATA[technical innovation]]></category>
+		<category><![CDATA[triple bottom line]]></category>
+		<guid isPermaLink="false">http://discoveryfuel.com/?p=271</guid>
+
+					<description><![CDATA[I have long awaited the day when business and technology begin to use principles of sustainability as the foundation for creating and using products and services. Well, the future has arrived and I&#8217;m all over it. Under concepts like &#8216;triple bottom line&#8217; and &#8216;social responsibility&#8217; the idea of innovation is showing up in new ways. [&#8230;]]]></description>
+		
+					<wfw:commentRss>/2008/10/27/about-sustainable-innovation/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">271</post-id>	</item>
+	</channel>
+</rss>

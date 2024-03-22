@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>learn &#8211; VicDesotelle.com</title>
+	<atom:link href="/tag/learn/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Discovery Colabs, LLC - &#34;Be The Change&#34;</description>
+	<lastBuildDate>Tue, 03 Jan 2012 18:49:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/2/2016/09/cropped-cropped-crossing-bridges-32x32.jpg</url>
+	<title>learn &#8211; VicDesotelle.com</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">117344633</site>	<item>
+		<title>Vic on Creative Learning</title>
+		<link>/2008/10/05/vic-on-creative-learning/</link>
+					<comments>/2008/10/05/vic-on-creative-learning/#respond</comments>
+		
+		<dc:creator><![CDATA[VicDesotelle]]></dc:creator>
+		<pubDate>Mon, 06 Oct 2008 04:46:01 +0000</pubDate>
+				<category><![CDATA[* Collaborative Design]]></category>
+		<category><![CDATA[change]]></category>
+		<category><![CDATA[Collaborative Design]]></category>
+		<category><![CDATA[education]]></category>
+		<category><![CDATA[Innovation]]></category>
+		<category><![CDATA[learn]]></category>
+		<guid isPermaLink="false">http://discoveryfuel.com/?p=84</guid>
+
+					<description><![CDATA[Let&#8217;s set the stage for what will be discussed here: What does this subject have to do with anything outside of a school environment? Well allow me to elaborate &#8230; The world has changed. Noooo, the world is not &#8216;about&#8217; to change, it HAS changed. And the way we learn no longer fits into the [&#8230;]]]></description>
+		
+					<wfw:commentRss>/2008/10/05/vic-on-creative-learning/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">6172</post-id>	</item>
+	</channel>
+</rss>
